@@ -1,2 +1,0 @@
-This file is here just to make sure the Folder Structure stays intact.
-You can remove this file after you added resources to this Folder.
